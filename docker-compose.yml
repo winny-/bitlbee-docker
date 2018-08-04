@@ -1,5 +1,5 @@
 bitlbee:
-  image: 'vanityshed/bitlbee-alpine-plugins:latest'
+  image: 'winny314/bitlbee-docker-plugins-xmpp:latest'
   restart: always
 
   ports:
